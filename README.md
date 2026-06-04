@@ -40,7 +40,9 @@ Dataset – Source data used for analysis
 Screenshots – Dashboard previews
 Dashboard Preview
 
-(Add dashboard screenshots here)
+<img width="1307" height="733" alt="image" src="https://github.com/user-attachments/assets/b4b1de4b-4806-4788-81d8-3471811832a3" />
+
+
 
 Skills Demonstrated
 Data Analysis
