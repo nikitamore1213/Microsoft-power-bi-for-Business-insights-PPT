@@ -40,7 +40,6 @@ Dataset – Source data used for analysis
 Screenshots – Dashboard previews
 Dashboard Preview
 
-<img width="1307" height="733" alt="image" src="https://github.com/user-attachments/assets/b4b1de4b-4806-4788-81d8-3471811832a3" />
 <img width="1303" height="721" alt="image (1)" src="https://github.com/user-attachments/assets/8ff726ae-e2f1-4702-be49-f4df737bd894" />
 
 
